@@ -1,2 +1,2 @@
-*.test*
-*.local*
+*_test*
+*_local*
