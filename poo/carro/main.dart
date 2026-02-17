@@ -1,4 +1,4 @@
-import "./15_carro_poo.dart";
+import "carro.dart";
 
 int acelerarCarro(Carro carro) {
   print("Acelerando...");
