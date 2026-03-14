@@ -1,4 +1,4 @@
-name: dart_test
+name: exercicios_dart
 description: Projeto de estudos Dart
 environment:
   sdk: ^3.0.0
