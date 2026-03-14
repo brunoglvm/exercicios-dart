@@ -1,0 +1,7 @@
+name: dart_test
+description: Projeto de estudos Dart
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  intl: ^0.20.2
